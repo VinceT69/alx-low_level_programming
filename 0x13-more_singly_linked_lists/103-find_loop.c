@@ -8,7 +8,6 @@
  * Return: returns the address of the node where the loop starts
  * and returns NULL if there is no loop
  */
-#include "lists.h"
 
 /**
  * find_listint_loop - Finds the loop contained in
